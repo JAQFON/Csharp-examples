@@ -1,4 +1,4 @@
-# Desafios-Localiza-NETDeveloper
+# Bootcamps/LocalizaLabs .NET Developer
 
 Este diretório contém os exercícios praticados durante o curso "Primeiros passos com .NET + C#" do Bootcamps/LocalizaLabs .NET Developer
 
